@@ -1,7 +1,7 @@
 {
   "name": "Auxilium",
   "author": "Auxilium Team <wallet@auxilium.global>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "main.js",
   "description": "Auxilium is a free, open-source interface for interacting with the blockchain",
   "repository": {
