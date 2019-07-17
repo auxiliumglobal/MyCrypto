@@ -5,7 +5,7 @@ export const ETH_DEFAULT: DPath = {
 
 export const AUX_DEFAULT: DPath = {
   label: 'Default (AUX)',
-  value: "m/44'/60'/0'/0"
+  value: "m/44'/344'/0'/0"
 };
 
 export const ETH_TREZOR: DPath = {
